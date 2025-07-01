@@ -18,7 +18,7 @@ A simple weather application built with React and TypeScript that consumes the O
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Jesus24-Dev/WeatherApp-ReactTS.git
    cd weather-app
    ```
 
